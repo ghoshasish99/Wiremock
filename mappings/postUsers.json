@@ -1,0 +1,21 @@
+{
+  "id" : "54b26435-b392-30ed-86af-955e3771aa80",
+  "request" : {
+    "url" : "/api/users",
+    "method" : "POST"
+  },
+  "response" : {
+    "status" : 201,
+    "bodyFileName" : "postResponse.txt",
+    "headers" : {
+      "Date" : "Thu, 02 Jul 2020 19:59:56 GMT",
+      "Cache-Control" : "max-age=3600",
+      "Expires" : "Thu, 02 Jul 2020 20:59:56 GMT",
+      "cf-request-id" : "03b2b659600000c7798b0bc200000001",
+      "Vary" : "Accept-Encoding",
+      "Server" : "cloudflare",
+      "CF-RAY" : "5acaf33bcbf5c779-AMS"
+    }
+  },
+  "uuid" : "54b26435-b392-30ed-86af-955e3771aa80"
+}

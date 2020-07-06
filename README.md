@@ -1,0 +1,2 @@
+# WiremockExampleVS
+Sample virtual service
